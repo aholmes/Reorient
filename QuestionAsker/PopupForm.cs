@@ -49,6 +49,7 @@ namespace QuestionAsker
             {
                 "Asked at: " + QuestionAskTime.ToString("MMMM dd, yyyy H:mm:ss"),
                 "Answered at: " + QuestionAnswerTime.ToString("MMMM dd, yyyy H:mm:ss"),
+                questionLabel.Text, 
                 responseText.Text
             };
 
