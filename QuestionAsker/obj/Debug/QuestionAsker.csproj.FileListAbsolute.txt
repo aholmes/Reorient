@@ -6,4 +6,3 @@ C:\Users\Aaron\documents\visual studio 2013\Projects\QuestionAsker\QuestionAsker
 C:\Users\Aaron\documents\visual studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Debug\QuestionAsker.csproj.GenerateResource.Cache
 C:\Users\Aaron\documents\visual studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Debug\QuestionAsker.exe
 C:\Users\Aaron\documents\visual studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Debug\QuestionAsker.pdb
-C:\Users\Aaron\documents\visual studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Debug\QuestionAsker.MainForm.resources

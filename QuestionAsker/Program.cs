@@ -8,6 +8,7 @@ namespace QuestionAsker
 {
     static class Program
     {
+        static TimeSpan SleepSpan = new TimeSpan(0, 30, 0);
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -16,7 +17,13 @@ namespace QuestionAsker
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+
+            while(true)
+            {
+                Application.Run(new PopupForm());
+
+                System.Threading.Thread.Sleep(SleepSpan);
+            }
         }
     }
 }
