@@ -28,6 +28,8 @@ namespace QuestionAsker
         private DateTime QuestionAskTime;
         private DateTime QuestionAnswerTime;
 
+        private LockWorkstation _lockWorkstation = new LockWorkstation(new TimeSpan(0, 5, 0));
+
         public PopupForm()
         {
             InitializeComponent();
@@ -38,12 +40,14 @@ namespace QuestionAsker
 
         private void responseText_TextChanged(object sender, EventArgs e)
         {
-
+            _lockWorkstation.RestartTimeout();
         }
 
         private async void responseSaveButton_Click(object sender, EventArgs e)
         {
             QuestionAnswerTime = DateTime.Now;
+
+            _lockWorkstation.StopTimeout();
 
             var response = new string[]
             {

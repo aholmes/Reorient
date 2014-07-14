@@ -1,0 +1,7 @@
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\bin\Release\QuestionAsker.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\bin\Release\QuestionAsker.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\bin\Release\QuestionAsker.pdb
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Release\QuestionAsker.Properties.Resources.resources
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Release\QuestionAsker.csproj.GenerateResource.Cache
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Release\QuestionAsker.exe
+C:\Users\Aaron\Documents\Visual Studio 2013\Projects\QuestionAsker\QuestionAsker\obj\Release\QuestionAsker.pdb
