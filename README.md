@@ -25,6 +25,12 @@ I often lose track of reality and time. I am changing parts of my life to be les
 
 If you think small introspection throughout your day will help you out, you might also find this useful.
 
+#### Does it actually help?
+I don't know. I just wrote it, and have only just started using it. If you find it helpful, let me know.
+
+#### Can I make it better?
+Yes, absolutely. I won't object to pull requests as long as they are in line with improving the code, or further elliminating disassociation when using a computer.
+
 Ask me questions already! (Download)
 ========
 You can find and download the appication [here](QuestionAsker/bin/Release/QuestionAsker.exe?raw=true).
